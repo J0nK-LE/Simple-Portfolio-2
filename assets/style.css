@@ -1,0 +1,80 @@
+* {
+ background-color: chartreuse;
+    
+}
+
+header{
+    justify-content: space-around;
+    background-color: blueviolet;
+    
+}
+
+h1{
+    color: aqua;
+    background-color: blueviolet;
+    display: flex;
+}
+
+header nav{
+
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    background-color: blue;
+
+}
+
+ul{
+    background-color: blue;
+}
+
+li{
+    background-color: blue;
+}
+
+a{
+    color: blanchedalmond;
+    background-color: blue;
+}
+
+main{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+body{
+
+}
+
+main section{
+    
+    
+    width: 48%;
+    margin-bottom: 40px;
+    background-color: beige;
+    height: 300px;
+
+}
+
+
+@media screen and (max-width: 768px) {
+    main section{
+
+        width: 100%;
+     
+    
+    }
+    
+    /* Change the header color */
+    header {
+      background: #8ac4ff;
+    }
+
+    body{
+
+        margin: 0;
+    }
+    
+  }
