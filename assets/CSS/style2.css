@@ -118,8 +118,7 @@ p {
     font-size: 36px;
 }
 
-.workblock:hover,
-.workblock:hover .work {
+.workblock:hover {
   box-shadow: inset 0px 0px 8px var(--borderColor), 0 0 20px var(--borderColor);
 }
 
@@ -129,8 +128,13 @@ p {
 
     outline: 2px solid var(--borderColor);
     outline-offset: -2px;
+
+    transition: transform .2s;
 }
 
+.workImgs:hover {
+    transform: scale(2);
+}
 
 
 footer {
