@@ -123,6 +123,16 @@ p {
   box-shadow: inset 0px 0px 8px var(--borderColor), 0 0 20px var(--borderColor);
 }
 
+.workImgs {
+    float: right;
+    margin-left: 25px;
+
+    outline: 2px solid var(--borderColor);
+    outline-offset: -2px;
+}
+
+
+
 footer {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
