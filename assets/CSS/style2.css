@@ -160,3 +160,52 @@ footer ul{
     justify-content: center;
    }
 
+   @media screen and (max-width: 992px) {
+    .workblock, .aboutmeblock {
+      width: auto;
+      height: auto;
+      margin: 0%;
+    }
+
+    .aboutmeblock{
+        float: none;
+        margin-right:0;
+        width:auto;
+        border:0;    
+    }
+    
+    .workImgs {
+        width: 50%;
+        height: auto;
+    }
+
+    .work, .aboutme {
+        display: flex;
+        flex-direction: column;
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+
+    .aboutme {
+        display: inline-block;
+    }
+
+    #avatar {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+      }
+  
+  
+  @media screen and (max-width: 768px) {
+    .workblock, .aboutmeblock {
+      width: 100%;
+      height: auto;
+    }
+
+   
+    }
