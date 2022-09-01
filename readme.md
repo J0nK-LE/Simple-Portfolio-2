@@ -27,9 +27,11 @@ Phone
 <!-- Links -->
 ## Links
 
-Deployed application:https://j0nk-le.github.io/challenge2/
+Deployed application:
+https://j0nk-le.github.io/challenge2/
 
-Project Link: https://github.com/J0nK-LE/challenge2
+Project Link:
+https://github.com/J0nK-LE/challenge2
 
 
 
