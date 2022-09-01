@@ -27,10 +27,9 @@ Phone
 <!-- Links -->
 ## Links
 
-Deployed application:
+Deployed application:https://j0nk-le.github.io/challenge2/
 
-Project Link: [https://github.com/J0nK-LE/challenge2](https://github.com/github_username/repo_name)
-
+Project Link: https://github.com/J0nK-LE/challenge2
 
 
 
